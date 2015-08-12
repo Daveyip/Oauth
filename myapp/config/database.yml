@@ -1,0 +1,23 @@
+development:
+  adapter: mysql2
+  database: test2
+  encoding: utf8
+  host: localhost
+  password: 26572827
+  username: root
+
+production:
+  adapter: mysql2
+  database: test2
+  encoding: utf8
+  host: localhost
+  password: 26572827
+  username: root
+
+test:
+  adapter: mysql2
+  database: test2
+  encoding: utf8
+  host: localhost
+  password: 26572827
+  username: root
